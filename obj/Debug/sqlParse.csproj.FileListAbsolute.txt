@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\sqlParse\sqlParse\bin\Debug\sqlParse.exe.config
+C:\Users\Administrator\source\repos\sqlParse\sqlParse\bin\Debug\sqlParse.exe
+C:\Users\Administrator\source\repos\sqlParse\sqlParse\bin\Debug\sqlParse.pdb
+C:\Users\Administrator\source\repos\sqlParse\sqlParse\obj\Debug\sqlParse.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\sqlParse\sqlParse\obj\Debug\sqlParse.Form1.resources
+C:\Users\Administrator\source\repos\sqlParse\sqlParse\obj\Debug\sqlParse.Properties.Resources.resources
+C:\Users\Administrator\source\repos\sqlParse\sqlParse\obj\Debug\sqlParse.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\sqlParse\sqlParse\obj\Debug\sqlParse.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\sqlParse\sqlParse\obj\Debug\sqlParse.exe
+C:\Users\Administrator\source\repos\sqlParse\sqlParse\obj\Debug\sqlParse.pdb
