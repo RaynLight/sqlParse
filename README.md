@@ -3,7 +3,7 @@ This is my final project for my Object Oriented Class
 https://github.com/RaynLight/sqlParse
 
 # Usage
-sqlParse can be used as a general MSSQL client allowing you to run queries against an MSSQL server.
+sqlParse can be used as a general MSSQL client allowing you to run queries against an MSSQL server. To use general functionality, enter in the username, password, and IP address and connect!
 
 # Logging
 sqlParse logs everything you do, it creates a folder called "logs" and logs queries, scans, connections, etc.
